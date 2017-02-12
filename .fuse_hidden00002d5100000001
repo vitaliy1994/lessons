@@ -9,4 +9,4 @@
 		<p>Git lessons</p>
 		<h1>Hello!</h1>
 		<input type="text" name="username">
-		<?php echo Hello; ?>
+
